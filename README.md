@@ -1,7 +1,7 @@
 # Makimathics
 Mathematics made by a Maki named Matthew
 
-                                L'essence des mathématiques, c'est la **Liberté**. - Georg Cantor
+                                L'essence des mathématiques, c'est la Liberté (!) - Georg Cantor
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/e/e4/Katta_%28Lemur_catta%29_jumping.jpg)
 
 
