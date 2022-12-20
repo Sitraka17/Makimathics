@@ -12,3 +12,14 @@ As many french kids I loved the Shadoks! Their wisdom is huge. In memoriam:
 
 Dam i though i was the first to have the idea of such a name but Google shows me that...indeed Labruyere was write : https://lemakistatheux.wordpress.com/
 And this website is of cool asf. 
+
+
+
+
+
+
+
+
+
+Bibliography: 
+[1] : https://fr.wikipedia.org/wiki/L%C3%A9mur_catta
