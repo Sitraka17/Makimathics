@@ -8,4 +8,4 @@ L'essence des mathématiques, c'est la *liberté*. - Georg Cantor
 
 
 Dam i though i was the first to have the idea of such a name but Google shows me that...indeed Labruyere was write : https://lemakistatheux.wordpress.com/
-And this website is of great Quality. 
+And this website is of cool asf. 
