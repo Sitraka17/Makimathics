@@ -19,11 +19,11 @@ And this website is of cool asf.
 
 
 # I. Basics 101
->> What is a Number ? 
+What is a Number ? 
 A number is a mathematical object used to *count*, *measure*, and *label*. 
 
->> Opérations 
-> addition 
+Opérations 
+Addition 
 
 
 Bibliography: 
