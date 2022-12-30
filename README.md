@@ -22,6 +22,8 @@ And this website is of cool asf.
 >> What is a Number ? 
 A number is a mathematical object used to *count*, *measure*, and *label*. 
 
+>> Opérations 
+> addition 
 
 
 Bibliography: 
