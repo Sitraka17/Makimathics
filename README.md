@@ -30,4 +30,4 @@ Bibliography:
 [1] : https://fr.wikipedia.org/wiki/L%C3%A9mur_catta
 
 Vidéography: 
-[1] 3 Brown 1 Blue is BASED.
+[1] [3 Brown 1 Blue](https://www.youtube.com/c/3blue1brown?app=desktop) is BASED.
