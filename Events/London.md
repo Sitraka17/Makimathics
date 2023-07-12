@@ -1,4 +1,4 @@
-Schedule
+# Schedule
 Wednesday, 12 July 2023
 
 09:45 Registration
@@ -46,7 +46,7 @@ Thursday, 13 July
 
 
 
-Abstracts
+# Abstracts
 Carol Alexander
 
 Title: Arbitrage Opportunities and Efficiency Tests in Crypto Options
