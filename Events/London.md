@@ -5,11 +5,11 @@ Updated the 18th of July 2023 with "*" as P ≤ 0.05
 
 09:45 Registration
 
-10:15 - 11:15 Ryan Donnelly - Exploratory Control with Tsallis Entropy for Latent Factor Models
+10:15 - 11:15 Ryan Donnelly - Exploratory Control with Tsallis Entropy for Latent Factor Models 
 
 11:15 - 11:30 Coffee
 
-11:30 - 12:15 Svetlana Malysheva - Application of random matrices theory to short-period stock log-returns. ***
+11:30 - 12:15 Svetlana Malysheva - Application of random matrices theory to short-period stock log-returns. **
 
 12:15 - 13:00 Álvaro Arroyo - Deep Attentive Survival Analysis in Limit Order Books: Estimating Fill Probabilities with Convolutional-Transformers
 
@@ -19,7 +19,8 @@ Updated the 18th of July 2023 with "*" as P ≤ 0.05
 
 15:00 - 15:15 Coffee
 
-15:15 - 16:00 Zi Li - Dynamic Inventory Management with Mean-Field Competition
+15:15 - 16:00 Zi Li - Dynamic Inventory Management with Mean-Field Competition ***
+ ie Markov Mean-Field Nash Equilibrium 
 
 16:00 - 16:45 Micha Bender - Lead-Lag Relationships in Market Microstructure
 
