@@ -1,13 +1,15 @@
 # Schedule
 Wednesday, 12 July 2023
 
+Updated the 18th of July 2023 with "*" as P ≤ 0.05
+
 09:45 Registration
 
 10:15 - 11:15 Ryan Donnelly - Exploratory Control with Tsallis Entropy for Latent Factor Models
 
 11:15 - 11:30 Coffee
 
-11:30 - 12:15 Svetlana Malysheva - Application of random matrices theory to short-period stock log-returns.
+11:30 - 12:15 Svetlana Malysheva - Application of random matrices theory to short-period stock log-returns. ***
 
 12:15 - 13:00 Álvaro Arroyo - Deep Attentive Survival Analysis in Limit Order Books: Estimating Fill Probabilities with Convolutional-Transformers
 
