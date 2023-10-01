@@ -4,6 +4,7 @@ Mathematics made by a Maki named Matthew.
                                 L'essence des mathématiques, c'est la Liberté (!) - Georg Cantor
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/e/e4/Katta_%28Lemur_catta%29_jumping.jpg)
 
+When I was a kid I wanted to be a Math teacher. Then a History teacher....but it demands more charisma than I though against students hahaha so now I am an Economist and a Data Scientist ! 
 
 As many french kids I loved the Shadoks! Their wisdom is huge. In memoriam:
 ![alt text](https://actualitte.com/uploads/images/shadoks-devise-1fe73075-cf56-4668-970a-8c82f3a81a08.jpg)
