@@ -1,6 +1,7 @@
 # Modélisation, optimisation, complexité et algorithmes
 
-Contenu
+## Contenu
+
 Algorithmes de Graphes 
 Concepts de base de la théorie des graphes.
 Connexité, forte connexité, mise en ordre.
@@ -26,3 +27,14 @@ Le responsable national relit et valide les sujets proposés par les CRA
 Bibliographie
 Coordinators: HADDAD Serge, KORDON Fabrice, PETRUCCI Laure : Méthodes formelles pour les systèmes répartis et coopératifs Traité IC2, série Informatique et Systèmes d'Information
 Douglas West : Introduction to Graph Theory
+
+
+
+## Cours du CNAM : 
+Code UE : RCP105
+Cours + travaux pratiques
+6 crédits
+Volume horaire de référence
+(+ ou - 10%) : 50 heures
+Responsable(s)
+Eric SOUTIL
