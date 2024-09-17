@@ -14,6 +14,8 @@ Arbres optimaux (Kruskal, Prim)
 Introduction à la complexité des algorithmes et des problèmes
 Classes P, NP - Équivalence et réductions entre problèmes - Problèmes NP-complets, NP-difficiles - Théorème de COOK.
 
+
+
 Réseaux de Petri (RdP)
 Systèmes concurrents, formalisme des réseaux de Petri , exemples de modélisation de systèmes dynamiques à événements discrets.
 Analyse comportementale :  Graphe des marquages accessibles, arborescence de Karp et Miller.
