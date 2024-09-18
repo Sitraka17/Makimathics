@@ -61,8 +61,7 @@
 - UE NFP 103 : Applications concurrentes
 - RCP 103 : Évaluation de performances
 
-## Modalité d'évaluation
-- Le responsable national relit et valide les sujets proposés par les CRA
+
 
 ## Bibliographie
 - **Coordinators** :
@@ -81,3 +80,6 @@ Volume horaire de référence
 (+ ou - 10%) : 50 heures
 Responsable(s)
 Eric SOUTIL
+
+## Modalité d'évaluation
+- Le responsable national relit et valide les sujets proposés par les CRA
