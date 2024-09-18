@@ -31,19 +31,45 @@
 
 
 
-Réseaux de Petri (RdP)
-Systèmes concurrents, formalisme des réseaux de Petri , exemples de modélisation de systèmes dynamiques à événements discrets.
-Analyse comportementale :  Graphe des marquages accessibles, arborescence de Karp et Miller.
-Équation d'état - Semi-flots (invariant de places) analyse structurelle -
-Propriétés génériques  (finitude,  sûreté, vivacité), propriétés spécifiques ( introduction  a la logique temporelle linéaire) -
-Etude de cas 
+# Réseaux de Petri (RdP)
 
-Au second semestre, les UE NFP 103 (applications concurrentes), RCP 103 (evaluation de performances) font suite à cet enseignement.
-Modalité d'évaluation
-Le responsable national relit et valide les sujets proposés par les CRA
-Bibliographie
-Coordinators: HADDAD Serge, KORDON Fabrice, PETRUCCI Laure : Méthodes formelles pour les systèmes répartis et coopératifs Traité IC2, série Informatique et Systèmes d'Information
-Douglas West : Introduction to Graph Theory
+## Contenu
+
+- Systèmes concurrents
+- Formalisme des réseaux de Petri
+- Exemples de modélisation de systèmes dynamiques à événements discrets
+
+### Analyse comportementale
+- Graphe des marquages accessibles
+- Arborescence de Karp et Miller
+
+### Équation d'état
+- Semi-flots (invariant de places)
+- Analyse structurelle
+
+### Propriétés
+- Propriétés génériques :
+  - Finitude
+  - Sûreté
+  - Vivacité
+- Propriétés spécifiques :
+  - Introduction à la logique temporelle linéaire
+
+### Étude de cas
+
+## Suite au second semestre
+- UE NFP 103 : Applications concurrentes
+- RCP 103 : Évaluation de performances
+
+## Modalité d'évaluation
+- Le responsable national relit et valide les sujets proposés par les CRA
+
+## Bibliographie
+- **Coordinators** :
+  - HADDAD Serge
+  - KORDON Fabrice
+  - PETRUCCI Laure : *Méthodes formelles pour les systèmes répartis et coopératifs*, Traité IC2, série Informatique et Systèmes d'Information
+- **Douglas West** : *Introduction to Graph Theory*
 
 
 
