@@ -2,17 +2,32 @@
 
 ## Contenu
 
-Algorithmes de Graphes 
-Concepts de base de la théorie des graphes.
-Connexité, forte connexité, mise en ordre.
-Fermeture transitive. Algorithme de Roy -Warshall
-Parcours des graphes (en largeur, en profondeur) : applications notamment à la connexité et à la forte connexité (algorithme de TARJAN).
-Chemins (algorithmes de Ford, Dijkstra,  Floyd).
-Ordonnancements (méthodes PERT et MPM et problèmes d'atelier)
-Flot maximal (Ford Fulkerson) Flot à coût minimal (Busacker-Cowen)
-Arbres optimaux (Kruskal, Prim)
-Introduction à la complexité des algorithmes et des problèmes
-Classes P, NP - Équivalence et réductions entre problèmes - Problèmes NP-complets, NP-difficiles - Théorème de COOK.
+### Algorithmes de Graphes
+- Concepts de base de la théorie des graphes
+- Connexité, forte connexité, mise en ordre
+- Fermeture transitive : Algorithme de Roy-Warshall
+- Parcours des graphes :
+  - Parcours en largeur
+  - Parcours en profondeur
+  - Applications : connexité, forte connexité (algorithme de TARJAN)
+- Chemins :
+  - Algorithme de Ford
+  - Algorithme de Dijkstra
+  - Algorithme de Floyd
+- Ordonnancements :
+  - Méthodes PERT et MPM
+  - Problèmes d'atelier
+- Flot maximal : Algorithme de Ford-Fulkerson
+- Flot à coût minimal : Algorithme de Busacker-Cowen
+- Arbres optimaux :
+  - Algorithme de Kruskal
+  - Algorithme de Prim
+
+### Introduction à la complexité des algorithmes et des problèmes
+- Classes P, NP
+- Équivalence et réductions entre problèmes
+- Problèmes NP-complets, NP-difficiles
+- Théorème de COOK
 
 
 
