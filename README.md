@@ -27,6 +27,17 @@ Opérations
 Addition 
 
 
+
+
+
+
+
+
+# Remarques: 
+En Français en effet! 
+Je pense que le CAPES manque d'une part importante de pédagogie collective. Il faudrait que chaque enseignement rappele l'enseignement de l'autre. Cela tombe bien l'Enseignement NAtionnale a essayé.... le résultat est mitigé car les profs ne communiquent pas assez sur leurs cours. 
+
+
 ## Bibliography: 
 [1] : [Lemur catta](https://fr.wikipedia.org/wiki/L%C3%A9mur_catta)
 
