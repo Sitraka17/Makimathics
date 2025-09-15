@@ -1,4 +1,4 @@
-# Makimathics
+//# Makimathics
 Mathematics made by a Maki named Matthew.
 
                                 L'essence des mathématiques, c'est la Liberté (!) - Georg Cantor
@@ -14,6 +14,7 @@ As many french kids I loved the Shadoks! Their wisdom is huge. In memoriam:
 Dam i though i was the first to have the idea of such a name but Google shows me that...indeed Labruyere was write : https://lemakistatheux.wordpress.com/
 And this website is of cool asf. 
 
+And people Use NOTEBOOK ML 
 
 
 
