@@ -1,82 +1,139 @@
-# 🎓 Programme Pédagogique : Diplôme d'Ingénieur IG2I (Centrale Lille)
+# Programme Pédagogique — Diplôme d'Ingénieur IG2I (Centrale Lille)
 
-> Cette structure présente les Unités d'Enseignement (UE) majeures, organisées par blocs de compétences et par année, pour un cursus complet de 5 ans.
-
----
-
-## 🏛️ 1. Socle Multidisciplinaire (Années 1 & 2)
-
-> Les deux premières années sont consacrées à l'acquisition des fondamentaux scientifiques et techniques rigoureux, nécessaires à tout ingénieur.
-
-### 🔧 Unités d'Enseignement : Fondamentaux Informatiques
-
-* **💻 Informatique et Systèmes :**
-  * *Algorithmique & Complexité :* Calcul de la complexité temporelle et spatiale $\mathcal{O}(n)$, $\mathcal{O}(n \log n)$, $\mathcal{O}(n^2)$. Algorithmes de tri (fusion, rapide), parcours de graphes (Dijkstra, A*, BFS/DFS), arbres binaires de recherche.
-  * *Structures de Données :* Implémentation bas niveau de listes chaînées, piles (LIFO), files (FIFO), tables de hachage (gestion des collisions), graphes et tas (heaps).
-  * *Programmation Orientée Objet (POO) :* Langages type C++ / Java / 🐍 Python. Concepts d'encapsulation, héritage multiple/simple, polymorphisme, abstraction, interfaces, et surcharge d'opérateurs.
-  * *Architecture des Ordinateurs :* Modèle de Von Neumann, portes logiques (NAND, NOR), algèbre de Boole, bascules, registres, Unité Arithmétique et Logique (UAL). Programmation en assembleur (gestion de la mémoire, de la pile d'exécution, et des interruptions).
-
-### 📐 Unités d'Enseignement : Sciences Fondamentales (Maths & Physique)
-
-* **🧮 Mathématiques Appliquées :**
-  * *Algèbre linéaire :* Espaces vectoriels, calcul matriciel, déterminants, diagonalisation, valeurs propres et vecteurs propres (fondamental pour la 3D et le Machine Learning).
-  * *Analyse :* Suites et séries (convergence), équations différentielles, transformées de Laplace et de Fourier (essentiel pour le traitement du signal).
-* **📊 Probabilités & Statistiques :**
-  * *Probabilités :* Espaces probabilisés, variables aléatoires discrètes et continues, espérance, variance. Probabilités conditionnelles et Théorème de Bayes :
-    $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
-  * *Distributions :* Lois Normale, Binomiale, de Poisson, de Student, du $\chi^2$.
-  * *Statistiques inférentielles :* Intervalles de confiance, estimation de paramètres, tests d'hypothèses (tests de conformité, tests d'indépendance $\chi^2$, ANOVA), p-value.
-* **⚡ Physique et Électronique :**
-  * *Électronique :* Loi d'Ohm, lois de Kirchhoff, théorèmes de Thévenin et Norton. Amplificateurs Opérationnels (AOP), conception de filtres actifs et passifs (passe-bas, passe-haut). Convertisseurs Analogique/Numérique (CAN/CNA).
-  * *Automatique :* Modélisation de systèmes dynamiques (Systèmes Linéaires Continus), fonctions de transfert, diagrammes de Bode et Nyquist, stabilité, correcteurs PID.
+Cursus de 5 ans organisé en trois grandes phases : socle multidisciplinaire, cycle ingénieur, puis spécialisation de fin d'études.
 
 ---
 
-## 🚀 2. Cycle Ingénieur (Années 3, 4 & 5) - Tronc Commun Avancé
+## Années 1 & 2 — Socle Multidisciplinaire
 
-> Le cycle ingénieur renforce l'expertise technique, en combinant les infrastructures systèmes et réseaux avec le génie logiciel avancé et une introduction à l'IA.
+Les deux premières années sont consacrées à l'acquisition des fondamentaux scientifiques et techniques nécessaires à tout ingénieur.
 
-### 🌍 Unités d'Enseignement : Infrastructures et Réseaux
+### Informatique et Systèmes
 
-* **🌐 Modèles Réseaux :** Maîtrise des couches du modèle OSI et de la pile TCP/IP.
-* **🛤️ Protocoles et Routage :** Adressage IPv4/IPv6, sous-réseaux, DHCP, DNS. Algorithmes de routage interne (OSPF) et externe (BGP). Switching (VLAN, STP).
-* **🐧 Administration Système :** OS basés sur UNIX/Linux. Shell scripting (Bash), gestion des droits (chmod, chown), gestion des processus, système de fichiers, et IPC (Inter-Process Communication).
-* **📦 Virtualisation et Conteneurisation :** Hyperviseurs de type 1 (ESXi) et de type 2 (VirtualBox). Conteneurisation avec Docker (Dockerfile, volumes, réseaux) et introduction à l'orchestration.
+**Algorithmique & Complexité**
+Calcul de la complexité temporelle et spatiale — $\mathcal{O}(n)$, $\mathcal{O}(n \log n)$, $\mathcal{O}(n^2)$. Algorithmes de tri (fusion, rapide), parcours de graphes (Dijkstra, A*, BFS/DFS), arbres binaires de recherche.
 
-### 🛠️ Unités d'Enseignement : Développement et Génie Logiciel
+**Structures de Données**
+Implémentation bas niveau de listes chaînées, piles (LIFO), files (FIFO), tables de hachage avec gestion des collisions, graphes et tas (*heaps*).
 
-* **🏛️ Architectures Logicielles :** Modèles MVC (Model-View-Controller). Design Patterns du GoF (Singleton, Factory, Observer, Strategy). Microservices vs Monolithes, architectures orientées événements. Conception d'API RESTful.
-* **🗄️ Bases de Données (BDD) :**
-  * *Relationnel (SGBDR) :* Algèbre relationnelle, SQL avancé (jointures complexes, sous-requêtes, triggers, procédures stockées), propriétés ACID, formes normales (1NF à 3NF).
-  * *NoSQL :* BDD orientées documents (MongoDB), clés-valeurs (Redis), graphes (Neo4j). Théorème CAP.
-* **🚀 DevOps et CI/CD :** Gestion de version avancée (Git flow). Mise en place de pipelines d'Intégration et de Déploiement Continus (GitLab CI, Jenkins).
-* **🧪 Qualité Logicielle :** Tests unitaires (JUnit, 🐍 PyTest), tests d'intégration, de bout-en-bout (E2E). Approches TDD (Test-Driven Development) et BDD (Behavior-Driven Development). Analyse statique de code (SonarQube).
+**Programmation Orientée Objet**
+Langages C++, Java, Python. Encapsulation, héritage, polymorphisme, abstraction, interfaces, surcharge d'opérateurs.
 
-### 🧠 Unités d'Enseignement : Intelligence Artificielle (Socle)
-
-* **🤖 Machine Learning (🐍) :** Apprentissage supervisé (Régression linéaire/logistique, SVM, Arbres de décision, Random Forest) et non supervisé (Clustering K-Means, PCA/Analyse en Composantes Principales). Utilisation des bibliothèques standards (🐍 Scikit-Learn, 🐍 Pandas, 🐍 NumPy).
-* **📈 Évaluation des modèles :** Matrice de confusion, précision, rappel (recall), score F1, validation croisée (K-fold).
+**Architecture des Ordinateurs**
+Modèle de Von Neumann, portes logiques (NAND, NOR), algèbre de Boole, bascules, registres, UAL. Programmation en assembleur : gestion de la mémoire, de la pile d'exécution et des interruptions.
 
 ---
 
-## 🎯 3. Les Spécialisations (Expertise de fin d'études)
+### Mathématiques Appliquées
 
-> En dernière année, les étudiants choisissent l'une des trois voies d'expertise suivantes pour finaliser leur profil d'ingénieur.
+**Algèbre linéaire**
+Espaces vectoriels, calcul matriciel, déterminants, diagonalisation, valeurs propres et vecteurs propres — fondamental pour la 3D et le Machine Learning.
 
-### 📊 Spécialisation Data and Software Engineering
+**Analyse**
+Suites et séries (convergence), équations différentielles, transformées de Laplace et de Fourier (essentiel pour le traitement du signal).
 
-* **🐘 Big Data :** Architectures distribuées. Traitement par lots (Batch) avec l'écosystème Hadoop (HDFS, MapReduce) et Spark (🐍 PySpark). Traitement en flux (Stream) avec Apache Kafka.
-* **🧠 Deep Learning & IA avancée :** Réseaux de Neurones Artificiels (ANN). Convolutional Neural Networks (CNN) pour la vision par ordinateur. Recurrent Neural Networks (RNN/LSTM) et Transformers pour le NLP (Traitement du Langage Naturel). Frameworks : 🐍 TensorFlow, 🐍 PyTorch.
-* **📐 Software Engineering Avancé :** Domain-Driven Design (DDD), Architecture Hexagonale (Clean Architecture).
+**Probabilités & Statistiques**
+Variables aléatoires discrètes et continues, espérance, variance, probabilités conditionnelles et théorème de Bayes :
 
-### 🛡️ Spécialisation Cloud Computing and Cybersecurity
+$$P(A \mid B) = \frac{P(B \mid A)\, P(A)}{P(B)}$$
 
-* **🔐 Cryptographie :** Cryptographie symétrique (AES) et asymétrique (RSA, Courbes elliptiques). Fonctions de hachage (SHA-256), signatures numériques, PKI (Infrastructures à Clés Publiques).
-* **🛡️ Sécurité Offensive et Défensive :** Tests d'intrusion (Pentesting), failles web (OWASP Top 10 : Injections SQL, XSS, CSRF), analyse de malwares, SIEM (Security Information and Event Management), SOC. Scripts d'automatisation (🐍 Python).
-* **☁️ Cloud Architecture & IaC :** Modèles IaaS, PaaS, SaaS. Déploiement sur AWS, Azure ou GCP. Infrastructure as Code (IaC) avec Terraform et Ansible. Sécurité du Cloud.
+Distributions : normale, binomiale, Poisson, Student, $\chi^2$. Statistiques inférentielles : intervalles de confiance, tests d'hypothèses (conformité, $\chi^2$, ANOVA), p-value.
 
-### ⚙️ Spécialisation Smart Systems (IoT & Embarqué)
+---
 
-* **📟 Systèmes Embarqués :** Architecture des microcontrôleurs (ARM Cortex, STM32). Programmation C/C++ bare-metal (sans OS) et 🐍 MicroPython. Gestion des timers, ADC/DAC, bus de communication (I2C, SPI, UART, CAN).
-* **⏱️ OS Temps Réel (RTOS) :** Ordonnancement temps réel, gestion des sémaphores, mutex, files de messages pour éviter les problèmes de concurrence (ex: FreeRTOS).
-* **📶 Internet des Objets (IoT) :** Protocoles LPWAN (Low Power Wide Area Network) comme LoRaWAN et Sigfox. Protocoles locaux (Bluetooth Low Energy - BLE, Zigbee). MQTT pour la remontée de données vers le cloud. Edge Computing (traitement de la donnée directement sur le capteur).
+### Physique et Électronique
+
+**Électronique**
+Loi d'Ohm, lois de Kirchhoff, théorèmes de Thévenin et Norton. Amplificateurs opérationnels, filtres actifs et passifs (passe-bas, passe-haut), convertisseurs CAN/CNA.
+
+**Automatique**
+Modélisation de systèmes dynamiques (systèmes linéaires continus), fonctions de transfert, diagrammes de Bode et Nyquist, stabilité, correcteurs PID.
+
+---
+
+## Années 3, 4 & 5 — Cycle Ingénieur (Tronc Commun)
+
+Le cycle ingénieur approfondit l'expertise technique en combinant infrastructures, génie logiciel et une introduction à l'intelligence artificielle.
+
+### Infrastructures et Réseaux
+
+**Modèles et protocoles**
+Maîtrise du modèle OSI et de la pile TCP/IP. Adressage IPv4/IPv6, sous-réseaux, DHCP, DNS. Algorithmes de routage interne (OSPF) et externe (BGP). Switching : VLAN, STP.
+
+**Administration Système**
+Environnements UNIX/Linux. Shell scripting (Bash), gestion des droits (`chmod`, `chown`), gestion des processus, système de fichiers, IPC (*Inter-Process Communication*).
+
+**Virtualisation et Conteneurisation**
+Hyperviseurs de type 1 (ESXi) et de type 2 (VirtualBox). Conteneurisation avec Docker (Dockerfile, volumes, réseaux), introduction à l'orchestration.
+
+---
+
+### Développement et Génie Logiciel
+
+**Architectures Logicielles**
+Modèle MVC, design patterns du GoF (Singleton, Factory, Observer, Strategy). Microservices vs. monolithes, architectures orientées événements, conception d'API RESTful.
+
+**Bases de Données**
+- *Relationnel (SGBDR) :* algèbre relationnelle, SQL avancé (jointures, sous-requêtes, triggers, procédures stockées), propriétés ACID, formes normales (1NF–3NF).
+- *NoSQL :* documents (MongoDB), clés-valeurs (Redis), graphes (Neo4j), théorème CAP.
+
+**DevOps & CI/CD**
+Gestion de version avancée (Git flow). Pipelines d'intégration et de déploiement continus (GitLab CI, Jenkins).
+
+**Qualité Logicielle**
+Tests unitaires (JUnit, PyTest), tests d'intégration et E2E. Approches TDD et BDD. Analyse statique de code (SonarQube).
+
+---
+
+### Intelligence Artificielle — Socle
+
+**Machine Learning (Python)**
+Apprentissage supervisé : régression linéaire/logistique, SVM, arbres de décision, Random Forest. Apprentissage non supervisé : clustering K-Means, ACP. Bibliothèques : Scikit-Learn, Pandas, NumPy.
+
+**Évaluation des modèles**
+Matrice de confusion, précision, rappel, score F1, validation croisée K-fold.
+
+---
+
+## Spécialisations — Expertise de fin d'études
+
+En dernière année, les étudiants choisissent l'une des trois voies d'expertise suivantes.
+
+---
+
+### Spécialisation A — Data and Software Engineering
+
+**Big Data**
+Architectures distribuées. Traitement par lots avec l'écosystème Hadoop (HDFS, MapReduce) et Spark (PySpark). Traitement en flux avec Apache Kafka.
+
+**Deep Learning & IA avancée**
+Réseaux de neurones artificiels (ANN), CNN pour la vision par ordinateur, RNN/LSTM et Transformers pour le NLP. Frameworks : TensorFlow, PyTorch.
+
+**Software Engineering avancé**
+Domain-Driven Design (DDD), architecture hexagonale (*Clean Architecture*).
+
+---
+
+### Spécialisation B — Cloud Computing and Cybersecurity
+
+**Cryptographie**
+Chiffrement symétrique (AES) et asymétrique (RSA, courbes elliptiques). Fonctions de hachage (SHA-256), signatures numériques, PKI.
+
+**Sécurité offensive et défensive**
+Pentesting, failles web (OWASP Top 10 : injections SQL, XSS, CSRF), analyse de malwares, SIEM, SOC. Automatisation en Python.
+
+**Cloud & Infrastructure as Code**
+Modèles IaaS, PaaS, SaaS. Déploiement sur AWS, Azure ou GCP. Terraform, Ansible, sécurité du Cloud.
+
+---
+
+### Spécialisation C — Smart Systems (IoT & Embarqué)
+
+**Systèmes Embarqués**
+Architecture des microcontrôleurs (ARM Cortex, STM32). Programmation C/C++ bare-metal et MicroPython. Timers, ADC/DAC, bus de communication (I2C, SPI, UART, CAN).
+
+**OS Temps Réel (RTOS)**
+Ordonnancement temps réel, sémaphores, mutex, files de messages — gestion de la concurrence (ex. FreeRTOS).
+
+**Internet des Objets (IoT)**
+Protocoles LPWAN : LoRaWAN, Sigfox. Protocoles locaux : BLE, Zigbee. MQTT pour la remontée de données. Edge Computing.
