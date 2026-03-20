@@ -1,0 +1,66 @@
+Pour un diplôme d'ingénieur en informatique comme celui de l'IG2I (Centrale Lille)
+---
+
+### 1. Socle Multidisciplinaire (Années 1 & 2)
+
+#### 💻 Informatique et Systèmes
+* **Algorithmique & Complexité :** Calcul de la complexité temporelle et spatiale $\mathcal{O}(n)$, $\mathcal{O}(n \log n)$. Algorithmes de tri (fusion, rapide), parcours de graphes (Dijkstra, A*, BFS/DFS), arbres binaires de recherche.
+* **Structures de Données :** Implémentation bas niveau de listes chaînées, piles (LIFO), files (FIFO), tables de hachage (gestion des collisions), graphes et tas (heaps).
+* **Programmation Orientée Objet (POO) :** Langages type C++ / Java. Concepts d'encapsulation, héritage multiple/simple, polymorphisme, abstraction, interfaces, et surcharge d'opérateurs.
+* **Développement Web :** Architecture client-serveur. Côté client : HTML5, CSS3, JavaScript (manipulation du DOM, événements, requêtes asynchrones/AJAX).
+* **Architecture des Ordinateurs :** Modèle de Von Neumann, portes logiques (NAND, NOR), algèbre de Boole, bascules, registres, Unité Arithmétique et Logique (UAL). Programmation en assembleur (gestion de la mémoire, de la pile d'exécution, et des interruptions).
+
+#### 🧮 Mathématiques Appliquées
+* **Mathématiques pour l'Ingénieur :**
+    * *Algèbre linéaire :* Espaces vectoriels, calcul matriciel, déterminants, diagonalisation, valeurs propres et vecteurs propres (fondamental pour la 3D et le Machine Learning).
+    * *Analyse :* Suites et séries (convergence), équations différentielles, transformées de Laplace et de Fourier (essentiel pour le traitement du signal).
+* **Probabilités :** Espaces probabilisés, variables aléatoires discrètes et continues, espérance, variance. Probabilités conditionnelles et Théorème de Bayes : 
+    $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
+* **Statistiques :** * *Distributions :* Lois Normale, Binomiale, de Poisson, de Student, du $\chi^2$.
+    * *Statistiques inférentielles :* Intervalles de confiance, estimation de paramètres, tests d'hypothèses (tests de conformité, tests d'indépendance $\chi^2$, ANOVA), p-value.
+* **Logique Formelle :** Calcul des propositions, calcul des prédicats du premier ordre, tables de vérité, et preuves mathématiques (récurrence, absurde).
+
+#### 🔌 Physique et Électronique
+* **Électronique analogique et numérique :** Loi d'Ohm, lois de Kirchhoff, théorèmes de Thévenin et Norton. Amplificateurs Opérationnels (AOP), conception de filtres actifs et passifs (passe-bas, passe-haut). Convertisseurs Analogique/Numérique (CAN/CNA).
+* **Automatique (Systèmes Linéaires Continus) :** Modélisation de systèmes dynamiques, fonctions de transfert, diagrammes de Bode et Nyquist, stabilité, correcteurs PID (Proportionnel, Intégral, Dérivé).
+* **Traitement du Signal :** Échantillonnage, théorème de Nyquist-Shannon, quantification, filtrage numérique.
+
+---
+
+### 2. Cycle Ingénieur (Années 3, 4 & 5) - Tronc Commun Avancé
+
+#### 🌐 Infrastructures et Réseaux
+* **Modèles Réseaux :** Maîtrise des couches du modèle OSI et de la pile TCP/IP.
+* **Protocoles et Routage :** Adressage IPv4/IPv6, sous-réseaux, DHCP, DNS. Algorithmes de routage interne (OSPF) et externe (BGP). Switching (VLAN, STP).
+* **Administration Système :** OS basés sur UNIX/Linux. Shell scripting (Bash), gestion des droits (chmod, chown), gestion des processus, système de fichiers, et IPC (Inter-Process Communication).
+* **Virtualisation et Conteneurisation :** Hyperviseurs de type 1 (ESXi) et de type 2 (VirtualBox). Conteneurisation avec Docker (Dockerfile, volumes, réseaux) et introduction à l'orchestration.
+
+#### 🛠️ Développement et Génie Logiciel
+* **Architectures Logicielles :** Modèles MVC (Model-View-Controller). Design Patterns du GoF (Singleton, Factory, Observer, Strategy). Microservices vs Monolithes, architectures orientées événements. Conception d'API RESTful.
+* **Bases de Données (BDD) :** * *Relationnel (SGBDR) :* Algèbre relationnelle, SQL avancé (jointures complexes, sous-requêtes, triggers, procédures stockées), propriétés ACID, formes normales (1NF à 3NF).
+    * *NoSQL :* BDD orientées documents (MongoDB), clés-valeurs (Redis), graphes (Neo4j). Théorème CAP.
+* **DevOps et CI/CD :** Gestion de version avancée (Git flow). Mise en place de pipelines d'Intégration et de Déploiement Continus (GitLab CI, Jenkins). 
+* **Qualité Logicielle :** Tests unitaires (JUnit, PyTest), tests d'intégration, de bout-en-bout (E2E). Approches TDD (Test-Driven Development) et BDD (Behavior-Driven Development). Analyse statique de code (SonarQube).
+
+#### 🧠 Intelligence Artificielle (Socle)
+* **Machine Learning classique :** Apprentissage supervisé (Régression linéaire/logistique, SVM, Arbres de décision, Random Forest) et non supervisé (Clustering K-Means, PCA/Analyse en Composantes Principales).
+* **Évaluation des modèles :** Matrice de confusion, précision, rappel (recall), score F1, validation croisée (K-fold).
+
+---
+
+### 3. Les Spécialisations (Expertise de fin d'études)
+
+#### 📊 Data and Software Engineering
+* **Big Data :** Architectures distribuées. Traitement par lots (Batch) avec l'écosystème Hadoop (HDFS, MapReduce) et Spark. Traitement en flux (Stream) avec Apache Kafka.
+* **Deep Learning & IA avancée :** Réseaux de Neurones Artificiels (ANN). Convolutional Neural Networks (CNN) pour la vision par ordinateur. Recurrent Neural Networks (RNN/LSTM) et Transformers pour le NLP (Traitement du Langage Naturel). Frameworks : TensorFlow, PyTorch.
+* **Software Engineering Avancé :** Domain-Driven Design (DDD), Architecture Hexagonale (Clean Architecture).
+
+#### 🛡️ Cloud Computing and Cybersecurity
+* **Cryptographie :** Cryptographie symétrique (AES) et asymétrique (RSA, Courbes elliptiques). Fonctions de hachage (SHA-256), signatures numériques, PKI (Infrastructures à Clés Publiques).
+* **Sécurité Offensive et Défensive :** Tests d'intrusion (Pentesting), failles web (OWASP Top 10 : Injections SQL, XSS, CSRF), analyse de malwares, SIEM (Security Information and Event Management), SOC.
+* **Cloud Architecture & IaC :** Modèles IaaS, PaaS, SaaS. Déploiement sur AWS, Azure ou GCP. Infrastructure as Code (IaC) avec Terraform et Ansible. Sécurité du Cloud.
+
+#### ⚙️ Smart Systems (IoT & Embarqué)
+* **Systèmes Embarqués :** Architecture des microcontrôleurs (ARM Cortex, STM32). Programmation C/C++ bare-metal (sans OS). Gestion des timers, ADC/DAC, bus de communication (I2C, SPI, UART, CAN).
+* **OS Temps Réel (RTOS) :** Ordonnancement temps réel, gestion des sémaphores, mutex, files de messages pour éviter les problèmes de concurrence (ex: FreeRTOS).
+* **Internet des Objets (IoT) :** Protocoles LPWAN (Low Power Wide Area Network) comme LoRaWAN et Sigfox. Protocoles locaux (Bluetooth Low Energy - BLE, Zigbee). MQTT pour la remontée de données vers le cloud. Edge Computing (traitement de la donnée directement sur le capteur).
